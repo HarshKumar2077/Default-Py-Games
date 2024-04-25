@@ -1,2 +1,2 @@
 # Python
-# learn making games in python
+# Default python games
